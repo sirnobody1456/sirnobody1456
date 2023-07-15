@@ -1,4 +1,7 @@
-### Hi there 👋
+ - 👋 Hello, I'm @sirnobody1456, a student
+ - 👀 I'm interested in math and competitive programming
+ - 😎 I'm looking for new projects!
+ - 📩 You can reach me on Discord as "duckiducki"
 
 <!--
 **sirnobody1456/sirnobody1456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
